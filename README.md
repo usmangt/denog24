@@ -27,7 +27,7 @@ Open your browser and go to `http://YOUR-IP:3000`. This should show you the Web 
 Login as `admin` for both username and passowd.
 
 
-### Step 3: Bringing down the deployment
+### Step 4: Bringing down the deployment
 
 ```bash
 docker compose down
