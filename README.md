@@ -12,7 +12,7 @@ The aim of this workshop is to provide a hands-on experience with Grafana and ho
 
 ### Step 1: Clone the repository
 ```bash
-git clone 
+git clone https://github.com/usmangt/denog24.git
 ```
 
 ### Step 2: Deploy the monitoring stack
