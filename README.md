@@ -17,7 +17,7 @@ git clone https://github.com/usmangt/denog24.git
 
 ### Step 2: Deploy the monitoring stack
 ```bash
-cd grafana-beginner
+cd denog24
 docker compose up -d
 ```
 
